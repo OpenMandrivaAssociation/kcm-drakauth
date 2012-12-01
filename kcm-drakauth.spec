@@ -1,8 +1,3 @@
-# These macros are not present on the target distribution and are provided explicitly here
-%define make_jobs %{__make} %{?_smp_mflags} VERBOSE=1
-
-%define _kde4_configkcfgdir %{_kde4_sharedir}/config.kcfg
-
 Name:           kcm-drakauth
 BuildRequires:  kdelibs4-devel
 License:        GPLv3+
