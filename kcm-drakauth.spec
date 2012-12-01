@@ -4,7 +4,6 @@
 %define _kde4_configkcfgdir %{_kde4_sharedir}/config.kcfg
 
 Name:           kcm-drakauth
-BuildRequires:  gcc-c++
 BuildRequires:  kdelibs4-devel
 License:        GPLv3+
 Group:          Graphical desktop/KDE
