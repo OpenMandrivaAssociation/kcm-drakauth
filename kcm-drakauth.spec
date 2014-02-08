@@ -4,7 +4,7 @@ License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching drakauth
 Version:        1.0
-Release:        4
+Release:        5
 BuildArch:      noarch
 Source0:        %{name}-%{version}.tar.gz
 
